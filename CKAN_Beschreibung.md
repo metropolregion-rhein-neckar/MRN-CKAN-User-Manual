@@ -4,7 +4,7 @@
 
 Die Funktionen:
 
-[1. Suchfunktion](#suche)
+[1. Suchfunktion](#suche) <br>
 [2. Tags](#tags)
 [3. Datensätze](#dataset)
 [4. Ressourcen](#ressourcen)
