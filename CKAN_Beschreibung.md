@@ -29,11 +29,11 @@ Abbildung 2
 
 Hier besteht zusätzlich die Möglichkeit die Suchergebnisse über einen Filter weiter einzugrenzen. In Abbildung 2 werden bpsw. nur Datensätze des Metropolatlas angezeigt. Sie erkennen einen aktiven Filter daran, dass dieser grau hinterlegt ist. Entfernen können Sie diesen wieder, indem Sie auf das nebenstehende Kreuz klicken. Die weiteren möglichen Filter sind alle fortführend untereinander aufgelistet.
 
-<img src="https://github.com/metropolregion-rhein-neckar/CKAN/blob/main/images/CKAN_Suchergebnis_1.PNG?raw=true" height="300" width="90%"> 
+<img src="https://github.com/metropolregion-rhein-neckar/CKAN/blob/main/images/CKAN_Suchergebnis_1.PNG?raw=true"> 
 
 Abbildung 3
 
-<img src="https://github.com/metropolregion-rhein-neckar/CKAN/blob/main/images/CKAN_Suchergebnis_2.PNG?raw=true" height="240" width="90%">
+<img src="https://github.com/metropolregion-rhein-neckar/CKAN/blob/main/images/CKAN_Suchergebnis_2.PNG?raw=true">
 
 Abbildung 4
 
