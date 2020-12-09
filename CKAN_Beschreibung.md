@@ -5,11 +5,11 @@
 Die Funktionen:
 
 [1. Suchfunktion](#suche) <br>
-[2. Tags](#tags)
-[3. Datensätze](#dataset)
-[4. Ressourcen](#ressourcen)
-[4.1 Ressourcendownload](#download)
-[4.2 Ressourcenvorschau](#vorschau)
+[2. Tags](#tags) <br>
+[3. Datensätze](#dataset) <br>
+[4. Ressourcen](#ressourcen) <br>
+[4.1 Ressourcendownload](#download) <br>
+[4.2 Ressourcenvorschau](#vorschau) <br>
 
 ### <a id="suche"></a> 1. Suchfunktion
 
