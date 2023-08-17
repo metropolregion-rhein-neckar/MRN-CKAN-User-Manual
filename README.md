@@ -1,4 +1,3 @@
 # CKAN
 
-
-This repository contains a guide for the ckan api as well as a comprehensive description of the data portal WebGUI of the rhine-neckar metropolitan region.
+Dieses Repository enthält eine Anleitung für die CKAN-API sowie eine ausführliche Beschreibung der grafischen Oberfläche des CKAN-basierten Datenportals der Metropolregion Rhein-Neckar ( https://daten.digitale-mrn.de ).
